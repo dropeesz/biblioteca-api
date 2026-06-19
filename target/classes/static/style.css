@@ -1,0 +1,26 @@
+body{
+    font-family:Arial,sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    width:80%;
+    margin:40px auto;
+}
+
+input{
+    padding:10px;
+    margin:5px;
+}
+
+button{
+    padding:10px 15px;
+    cursor:pointer;
+}
+
+.livro{
+    background:white;
+    padding:15px;
+    margin-top:10px;
+    border-radius:8px;
+}
